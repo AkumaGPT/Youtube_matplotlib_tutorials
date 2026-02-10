@@ -1,0 +1,8 @@
+Write a script that:
+
+Plots any 2 lists
+
+Runs without error
+
+Shows a line
+

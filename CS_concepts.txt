@@ -1,0 +1,12 @@
+Think of Matplotlib like drawing on paper:
+
+Figure = the paper
+
+Axes = the drawing area on the paper
+
+pyplot (plt) = the pencil
+
+plot() = draw a line
+
+show() = show the drawing
+
